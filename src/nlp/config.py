@@ -5,6 +5,10 @@
 Stores configuration values for the web document EVTL pipeline.
 Source: arXiv abstract page for "Agents of Chaos" (2602.20021)
 
+Author: Britany Goucher
+
+Date: 2026-11
+
 Purpose
 
   Store configuration values.

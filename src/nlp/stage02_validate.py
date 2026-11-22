@@ -5,6 +5,10 @@
 Source: Raw HTML string
 Sink:   BeautifulSoup object (in memory)
 
+Author: Britany Goucher
+
+Date: 2026-11
+
 Purpose
 
   Validates that the expected page structure is present.

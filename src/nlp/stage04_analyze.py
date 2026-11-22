@@ -2,6 +2,10 @@
 
 (MODIFY YOUR VERSION OF THIS FILE)
 
+Author: Britany Goucher
+
+Date: 2026-11
+
 Source: analysis-ready Pandas DataFrame (from Transform stage)
 Sink:   visualizations saved to data/processed/
 
